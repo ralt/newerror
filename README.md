@@ -1,11 +1,11 @@
-# newError [![Travis build][0]][1]
+# new-error [![Travis build][0]][1]
 
 Create Error subclasses without sweating it!
 
 ## How?
 
 ```javascript
-var newError = require('newError');
+var newError = require('new-error');
 
 var StuffError = newError('StuffError');
 
@@ -37,7 +37,7 @@ The `newError` function takes 2 arguments:
 To use this function:
 
 ```javascript
-var newError = require('newError');
+var newError = require('new-error');
 
 var StuffError = newError('StuffError', 'test');
 throw new StuffError(); // "StuffError: test"
@@ -53,5 +53,5 @@ throw new StuffError('another test'); // "StuffError: another test"
 MIT License.
 
 
-  [0]: https://api.travis-ci.org/Ralt/newError.png
-  [1]: https://travis-ci.org/Ralt/newError
+  [0]: https://api.travis-ci.org/Ralt/new-error.png
+  [1]: https://travis-ci.org/Ralt/new-error

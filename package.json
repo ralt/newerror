@@ -1,5 +1,5 @@
 {
-  "name": "newError",
+  "name": "new-error",
   "version": "1.0.0",
   "description": "Create Error subclasses without sweating it.",
   "author": {
@@ -9,11 +9,11 @@
   },
   "main": "index.js",
   "bugs": {
-    "url": "https://github.com/Ralt/newError/issues"
+    "url": "https://github.com/Ralt/new-error/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ralt/newError"
+    "url": "https://github.com/Ralt/new-error"
   },
   "devDependencies": {
     "mocha": "~1.17.0"
