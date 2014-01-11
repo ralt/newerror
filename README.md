@@ -1,6 +1,4 @@
-# newError
-
-![Travis build](https://api.travis-ci.org/Ralt/newError.png)
+# newError [![Travis build][0]][1]
 
 Create Error subclasses without sweating it!
 
@@ -53,3 +51,7 @@ throw new StuffError('another test'); // "StuffError: another test"
 ## License
 
 MIT License.
+
+
+  [0]: https://api.travis-ci.org/Ralt/newError.png
+  [1]: https://travis-ci.org/Ralt/newError
