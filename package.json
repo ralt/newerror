@@ -1,0 +1,24 @@
+{
+  "name": "newError",
+  "version": "1.0.0",
+  "description": "Create Error subclasses without sweating it.",
+  "author": {
+    "name": "Florian Margaine",
+    "email": "florian@margaine.com",
+    "url": "http://margaine.com"
+  },
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/Ralt/newError/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Ralt/newError"
+  },
+  "devDependencies": {
+    "mocha": "~1.17.0"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test/"
+  }
+}
