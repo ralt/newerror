@@ -1,5 +1,7 @@
 # newError
 
+![Travis build](https://api.travis-ci.org/Ralt/newError.png)
+
 Create Error subclasses without sweating it!
 
 ## How?
